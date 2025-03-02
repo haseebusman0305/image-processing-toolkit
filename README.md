@@ -122,11 +122,3 @@ python image_labeler.py ./large_image_collection --output annotations.xlsx --fie
 - transformers
 
 See `requirements.txt` for specific version requirements.
-
-## License
-
-[Your license information]
-
-## Contributing
-
-[Your contribution guidelines]
